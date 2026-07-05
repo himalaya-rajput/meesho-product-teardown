@@ -7,7 +7,8 @@ This project explores how Meesho can improve monetization without compromising i
 Using primary research, user interviews, competitive benchmarking, and product strategy frameworks, our team identified key trust gaps in the customer journey and designed three monetization features supported by an interactive prototype, revenue guesstimates, and a product metrics framework.
 
 📄 **Full Presentation:** Product_Teardown_Meesho.pdf
-🎨 **Interactive Prototype:** 🔗 [View Prototype]([url](https://amaranth-filippa-98.tiiny.site))
+
+🎨 **Interactive Prototype:** 🔗 [View Prototype](https://amaranth-filippa-98.tiiny.site)
 
 ## 🔍 Research Approach
 
@@ -59,7 +60,7 @@ To validate the proposed checkout experience, we designed an interactive prototy
 
 The prototype helped evaluate whether users perceived these premium features as valuable without disrupting the existing buying experience.
 
-🔗 [View Prototype]([url](https://amaranth-filippa-98.tiiny.site))
+🔗 [View Prototype](https://amaranth-filippa-98.tiiny.site)
 
 - User Journey Mapping
 - Competitive Benchmark
@@ -106,6 +107,6 @@ The remaining work—including secondary research, user journey mapping, competi
 
 ## 📄 Complete Case Study
 
-👉 [View Full Presentation]([url](https://drive.google.com/file/d/1btI9ckMi91kWKOSHmuboSedomvmFJFQM/view?usp=sharing))
+👉 [View Full Presentation](https://drive.google.com/file/d/1btI9ckMi91kWKOSHmuboSedomvmFJFQM/view?usp=sharing)
 
-👉 [View Interactive Prototype]([url](https://amaranth-filippa-98.tiiny.site))
+👉 [View Interactive Prototype](https://amaranth-filippa-98.tiiny.site)
